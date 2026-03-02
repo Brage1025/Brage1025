@@ -1,7 +1,9 @@
 <!-- My Header -->
-<h1 align="center">Brage1025's GitHub</h1>
-
 <br clear="right">
+<h1 align="center">Brage1025's GitHub</h1>
+</br>
+
+<br>
 Hi and welcome to my GitHub page. I'm a passionate fullstack developer in the making based in Norway. I'm on a journey to master full-stack development, one project at a time, currently ttending the Kodehode program. I love building different pojects based on my own interests and eager to learn new things, be that in frontend, backend or cybersecurity.
 </br>
 

@@ -18,7 +18,7 @@ Hi and welcome to my GitHub page. I'm a passionate fullstack developer in the ma
 ## Frameworks:
 
 <p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50px"/><img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50px"/><img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" width="50px"/><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="50px"/>
 </p>
 
 ## Tools:

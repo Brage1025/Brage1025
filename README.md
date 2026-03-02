@@ -1,9 +1,9 @@
 <!-- My Header -->
 <h1 align="center">Brage1025's GitHub</h1>
 
-<p align="center">
+<h3>
 Hi and welcome to my GitHub page. I'm a passionate fullstack developer in the making based in Norway. I'm on a journey to master full-stack development, one project at a time, currently ttending the Kodehode program. I love building different pojects based on my own interests and eager to learn new things, be that in frontend, backend or cybersecurity.
-</p>
+</h3>
 
 ---
 
@@ -31,18 +31,19 @@ Hi and welcome to my GitHub page. I'm a passionate fullstack developer in the ma
 ## Socials
 
 <p>
-  <
   <a href="https://github.com/Brage1025"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"></a>
   <a href="mailto:meb102025@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"></a>
 </p>
-<p><small>Contact me on Discord if you need my email for collaboration or inquiries.</small></p>
+<p><small>Contact me via email for collaboration or inquiries.</small></p>
 
 ---
 
 ## GitHub Stats
 
+<div align="center">
 <p>
   <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=brage1025&layout=compact&count_private=true&theme=transparent&title_color=FC7202&border_color=FC7202&text_color=FFA308&exclude_repo=jvm-class,coding,bingate,tomeofpower,bookshelf,ocular&langs_count=12" alt="Top languages" width="50%">
+</div>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Brage1025&theme=transparent&ring=FC7202&fire=FFA308&currStreakNum=FFA308&sideLabels=FC7202&dates=FFA308&sideNums=FFA308&currStreakLabel=FC7202&stroke=FC7202&border=FC7202&excludeDaysLabel=EB0000" alt="GitHub Streak" width="100%"/></a>
 

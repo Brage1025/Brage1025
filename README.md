@@ -42,7 +42,7 @@ Hi and welcome to my GitHub page. I'm a passionate fullstack developer in the ma
 ## GitHub Stats
 
 <p>
-  <img src="https://github-readme-brage1025.vercel.app/api/top-langs/?username=brage1025&layout=compact&count_private=true&theme=transparent&title_color=FC7202&exclude_repo=jvm-class,coding,bingate,tomeofpower,bookshelf,ocular&langs_count=12" alt="Top languages" width="50%">
+  <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=brage1025&layout=compact&count_private=true&theme=transparent&title_color=FC7202&hide_border&text_color=FFA308&exclude_repo=jvm-class,coding,bingate,tomeofpower,bookshelf,ocular&langs_count=12" alt="Top languages" width="50%">
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Brage1025&theme=transparent&ring=FC7202&fire=FFA308&currStreakNum=FFA308&sideLabels=FC7202&dates=FFA308&sideNums=FFA308&currStreakLabel=FC7202&stroke=FC7202&border=FC7202&excludeDaysLabel=EB0000" alt="GitHub Streak" width="100%"/></a>
 

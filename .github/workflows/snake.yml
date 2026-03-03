@@ -17,12 +17,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           github_token: ${{ secrets.GITHUB_TOKEN }} # avoids API rate limits
           # Custom palette: snake = #FFA308, grass = GitHub dark theme
-          palette: |
-            {
-              "background": "#0d1117",
-              "snake": "#FFA308",
-              "grass": ["#161b22", "#0e4429", "#006d32", "#26a641", "#39d353"]
-            }
+          palette: '{"background":"#0d1117","snake":["#FFA308"],"grass":["#161b22","#0e4429","#006d32","#26a641","#39d353"]}'
           outputs: |
             dist/github-contribution-grid-snake2.svg
 

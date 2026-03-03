@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Generate dark theme version
-      - uses: Platane/snk@v3.1.0 # 👈 updated version
+      - uses: Platane/snk@v3.1.0
         with:
           github_user_name: ${{ github.repository_owner }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
@@ -27,7 +27,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg
 
       # Generate light theme version
-      - uses: Platane/snk@v3.1.0 # 👈 updated version
+      - uses: Platane/snk@v3.1.0
         with:
           github_user_name: ${{ github.repository_owner }}
           github_token: ${{ secrets.GITHUB_TOKEN }}

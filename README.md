@@ -51,11 +51,7 @@ My hobbies are everything from reading, writing, politics, to Dungeons & Dragons
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Brage1025&theme=transparent&ring=FC7202&fire=FFA308&currStreakNum=FFA308&sideLabels=FC7202&dates=FFA308&sideNums=FFA308&currStreakLabel=FC7202&stroke=FC7202&border=FC7202&excludeDaysLabel=EB0000" alt="GitHub Streak" width="100%"/></a>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brage1025/Brage1025/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brage1025/Brage1025/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Brage1025/Brage1025/output/github-contribution-grid-snake.svg">
-</picture>
+![snake animation](https://raw.githubusercontent.com/Brage1025/Brage1025/output/github-contribution-grid-snake.svg)
 
 </p>
 

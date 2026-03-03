@@ -12,7 +12,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      # Generate dark theme version
+      - uses: Platane/snk@v3.1.0 # 👈 updated version
         with:
           github_user_name: ${{ github.repository_owner }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
@@ -25,7 +26,8 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake-dark.svg
 
-      - uses: Platane/snk@v3
+      # Generate light theme version
+      - uses: Platane/snk@v3.1.0 # 👈 updated version
         with:
           github_user_name: ${{ github.repository_owner }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
@@ -38,10 +40,10 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
 
+      # Deploy both to the 'output' branch
       - uses: crazy-max/ghaction-github-pages@v4.0.0
         with:
           target_branch: output
           build_dir: dist
-          repo: ${{ github.repository }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

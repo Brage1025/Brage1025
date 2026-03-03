@@ -2,25 +2,35 @@ name: Generate snake game
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # every 12 hours
-  workflow_dispatch: # allow manual trigger
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
 
 permissions:
-  contents: write # needed to push to output branch
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # Generate dark theme version
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          github_token: ${{ secrets.GITHUB_TOKEN }} # avoids API rate limits
-          # Custom palette: snake = #FFA308, grass = GitHub dark theme
-          snake_color: "#FFA308"
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          palette: '{"background":"#0d1117","snake":["#FFA308"],"grass":["#161b22","#0e4429","#006d32","#26a641","#39d353"]}'
           outputs: |
-            dist/github-contribution-grid-snake2.svg
+            dist/github-contribution-grid-snake-dark.svg
 
+      # Generate light theme version
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          palette: '{"background":"#ffffff","snake":["#FFA308"],"grass":["#ebedf0","#9be9a8","#40c463","#30a14e","#216e39"]}'
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+
+      # Deploy both to the 'output' branch
       - uses: crazy-max/ghaction-github-pages@v4.0.0
         with:
           target_branch: output

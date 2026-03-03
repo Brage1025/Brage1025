@@ -1,8 +1,6 @@
-name: Generate snake game
+name: Test contributions
 
 on:
-  schedule:
-    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 permissions:
@@ -12,13 +10,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Sutil/snk@master
+      - uses: Platane/snk@v3.1.0
         with:
           github_user_name: ${{ github.repository_owner }}
-          svg_out_path: dist/github-contribution-grid-snake.svg
-          snake_color: "#FFA308"
-        env:
-          GITHUB_TOKEN: ${{ secrets.PAT }}
+          github_token: ${{ secrets.PAT }}
+          outputs: |
+            dist/contrib-test.svg
 
       - uses: crazy-max/ghaction-github-pages@v4.0.0
         with:

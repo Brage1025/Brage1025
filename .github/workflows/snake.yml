@@ -6,20 +6,27 @@ on:
   workflow_dispatch: # allow manual trigger
 
 permissions:
-  contents: write
+  contents: write # needed to push to output branch
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Sutil/snk@master
-        id: snake-gif
+      - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          svg_out_path: dist/github-contribution-grid-snake2.svg
-          snake_color: "#FFA308" # you can change this
+          github_token: ${{ secrets.GITHUB_TOKEN }} # avoids API rate limits
+          # Custom palette: snake = #FFA308, grass = GitHub dark theme
+          palette: |
+            {
+              "background": "#0d1117",
+              "snake": "#FFA308",
+              "grass": ["#161b22", "#0e4429", "#006d32", "#26a641", "#39d353"]
+            }
+          outputs: |
+            dist/github-contribution-grid-snake2.svg
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - uses: crazy-max/ghaction-github-pages@v4.0.0
         with:
           target_branch: output
           build_dir: dist

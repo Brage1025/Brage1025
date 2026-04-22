@@ -15,7 +15,7 @@ My hobbies are everything from reading, writing, politics, to Dungeons & Dragons
 
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50px" /><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50px" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50px" /><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="50px"/><img src="https://github.com/devicons/devicon/blob/master/icons/tex/tex-original.svg" width="50px"/><img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" width="50px"/><img src="https://github.com/Brainrotlang/brainrot-webpage/blob/main/public/logo192.png" width="50px"/><img scr="https://github.com/alefragnani/vscode-language-pascal/blob/master/images/icon.png" width="50px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50px" /><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="50px"/><img src="https://github.com/devicons/devicon/blob/master/icons/tex/tex-original.svg" width="50px"/><img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" width="50px"/><img src="https://github.com/Brainrotlang/brainrot-webpage/blob/main/public/logo192.png" width="50px"/>
 </p>
 
 ## Frameworks:

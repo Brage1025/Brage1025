@@ -2,7 +2,7 @@
 
 <h1 align="center">Brage1025's GitHub</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=FC7202&width=550&lines=Junior+Full-Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=FC7202&center=true&width=550&lines=Junior+Full-Stack+Developer)](https://git.io/typing-svg)
 
 <br clear="right">
 Hi and welcome to my GitHub page. I'm a passionate fullstack developer in the making, based in Norway. I'm on a journey to master full-stack development, one project at a time, currently attending the Kodehode program. I love learning new things, be that in frontend, backend or cybersecurity.

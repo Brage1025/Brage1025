@@ -3,7 +3,7 @@
 <h1 align="center">Brage1025's GitHub</h1>
 
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=FC7202&center=true&vCenter=true&width=550&lines=Junior+Full-Stack+Developer)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=FC7202&center=true&vCenter=true&width=550&lines=Junior+Full-Stack+Developer" alt="Typing SVG" /></a>
 </p>
 
 <br clear="right">

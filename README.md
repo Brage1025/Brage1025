@@ -10,9 +10,11 @@
 Hi and welcome to my GitHub page. I'm a passionate fullstack developer in the making, based in Norway. I'm on a journey to master full-stack development, one project at a time, currently attending the Kodehode program. I love learning new things, be that in frontend, backend or cybersecurity.
 </br>
 <br clear="right">
-My hobbies are everything from reading, writing, politics, to Dungeons & Dragons, Magic The Gathering, RuneScape, THE FINALS and Leauge Of Legends. I've also hosted several local quizes.
+My hobbies are everything from reading, writing, politics, to Dungeons & Dragons, Magic The Gathering, RuneScape, THE FINALS and Leauge Of Legends.
 </br>
-
+<br>
+I've also hosted several local quizes and handles to speak in front of an audience.
+</br>
 ---
 
 ## Languages:

@@ -13,7 +13,7 @@ Hi and welcome to my GitHub page. I'm a passionate fullstack developer in the ma
 My hobbies are everything from reading, writing, politics, to Dungeons & Dragons, Magic The Gathering, RuneScape, THE FINALS and Leauge Of Legends.
 </br>
 <br>
-I've also hosted several local quizes and handles to speak in front of an audience.
+I've also hosted several local quizes and have strong public speaking skills.
 </br>
 ---
 

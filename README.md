@@ -15,6 +15,7 @@ My hobbies are everything from reading, writing, politics, to Dungeons & Dragons
 <br>
 I've also hosted several local quizes and have strong public speaking skills.
 </br>
+
 ---
 
 ## Languages:

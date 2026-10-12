@@ -56,10 +56,10 @@ I've also hosted several local quizes and have strong public speaking skills.
 
 <div align="center">
 <p>
-  <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=brage1025&layout=compact&count_private=true&theme=transparent&title_color=FC7202&border_color=FC7202&text_color=FFA308&exclude_repo=jvm-class,coding,bingate,tomeofpower,bookshelf,ocular&langs_count=12" alt="Top languages" width="50%">
+  <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=brage1025&layout=compact&count_private=true&theme=transparent&title_color=FC7202&border_color=FC7202&text_color=FFA308&exclude_repo=jvm-class,coding,bingate,tomeofpower,bookshelf,ocular&langs_count=12" alt="Top languages" title="Most Used Languages" width="50%">
 </div>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Brage1025&theme=transparent&ring=FC7202&fire=FFA308&currStreakNum=FFA308&sideLabels=FC7202&dates=FFA308&sideNums=FFA308&currStreakLabel=FC7202&stroke=FC7202&border=FC7202&excludeDaysLabel=EB0000" alt="GitHub Streak" width="100%"/></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Brage1025&theme=transparent&ring=FC7202&fire=FFA308&currStreakNum=FFA308&sideLabels=FC7202&dates=FFA308&sideNums=FFA308&currStreakLabel=FC7202&stroke=FC7202&border=FC7202&excludeDaysLabel=EB0000" alt="GitHub Streak" title="GitHub Streak" width="100%"/></a>
 
 <picture>
   <source
@@ -72,7 +72,7 @@ I've also hosted several local quizes and have strong public speaking skills.
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/Brage1025/Brage1025/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/Brage1025/Brage1025/output/github-contribution-grid-snake.svg" title="The Contribution Snake"
   />
 </picture>
 

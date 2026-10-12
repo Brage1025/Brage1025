@@ -23,14 +23,14 @@ I've also hosted several local quizes and have strong public speaking skills.
 ## Languages:
 
 <p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50px" /><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50px" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50px" /><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="50px"/><img src="https://github.com/devicons/devicon/blob/master/icons/tex/tex-original.svg" width="50px"/><img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" width="50px"/><img src="https://github.com/Brainrotlang/brainrot-webpage/blob/main/public/logo192.png" width="50px"/><img src="https://github.com/Brage1025/Terminal-Dungeon/blob/main/vscode-pascal-logo-minisize-readme.png" width="50px"/><img src="https://github.com/ada-lang-io/ada-logo-editor/blob/main/resources/ada_horizon_logo/ada_horizon_framed.svg" width="50px"/><img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" width="50px"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50px"/><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" width="50px" /><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" width="50px" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="50px" /><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" width="50px"/><img src="https://github.com/devicons/devicon/blob/master/icons/tex/tex-original.svg" title="TeX" width="50px"/><img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" width="50px"/><img src="https://github.com/Brainrotlang/brainrot-webpage/blob/main/public/logo192.png" title="Brainrot" width="50px"/><img src="https://github.com/Brage1025/Terminal-Dungeon/blob/main/vscode-pascal-logo-minisize-readme.png" title="Pascal" width="50px"/><img src="https://github.com/ada-lang-io/ada-logo-editor/blob/main/resources/ada_horizon_logo/ada_horizon_framed.svg" title="Ada" width="50px"/><img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="JSON" width="50px"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="50px"/><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" width="50px"/>
 </p>
 
 ## Frameworks:
 
 <p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50px"/><img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" width="50px"/><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="50px"/><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="50px"/><img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="50px"/><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="50px"/><img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" width="50px"/><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="50px"/><img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" width="50px"/><img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="Electron" width="50px"/><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" width="50px"/><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" width="50px"/><img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" width="50px"/><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" width="50px"/><img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" title="Blazor" width="50px"/><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="50px"/><img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title=".Net" width="50px"/>
 </p>
 
 ## Tools:
@@ -44,9 +44,9 @@ I've also hosted several local quizes and have strong public speaking skills.
 ## Socials
 
 <p>
-  <a href="https://github.com/Brage1025"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"></a>
-  <a href="mailto:meb102025@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"></a>
-  <a href="https://dev.to/brage1025"><img src="https://skillicons.dev/icons?i=devto" alt="DEV.to"></a>
+  <a href="https://github.com/Brage1025"><img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub"></a>
+  <a href="mailto:meb102025@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" title="Gmail" alt="Gmail"></a>
+  <a href="https://dev.to/brage1025"><img src="https://skillicons.dev/icons?i=devto" title="DEV.to" alt="DEV.to"></a>
 </p>
 <p><small>Contact me via email for collaboration or inquiries.</small></p>
 

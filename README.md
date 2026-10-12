@@ -46,6 +46,7 @@ I've also hosted several local quizes and have strong public speaking skills.
 <p>
   <a href="https://github.com/Brage1025"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"></a>
   <a href="mailto:meb102025@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"></a>
+  <a href="https://dev.to/brage1025"><img src="https://skillicons.dev/icons?i=devto" alt="DEV.to"></a>
 </p>
 <p><small>Contact me via email for collaboration or inquiries.</small></p>
 

@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<img src="https://count.getloli.com/@Profile%20Views?theme=rule34&padding=8&offset=0&align=top&scale=1.5&pixelated=1&darkmode=auto"
+<img src="https://count.getloli.com/@Profile%20Views?theme=rule34&padding=8&offset=0&align=top&scale=1.5&pixelated=1&darkmode=0"
   alt=":Profile Views"
   title="Profile Views"/>
 </p>

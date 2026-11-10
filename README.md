@@ -6,6 +6,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=FC7202&center=true&vCenter=true&width=550&lines=Junior+Full-Stack+Developer" title="Junior Full-Stack Developer" alt="Typing SVG" /></a>
 </p>
 
+<p align="center">
+<img src="https://count.getloli.com/@Profile%20Views?theme=rule34&padding=8&offset=0&align=top&scale=1.5&pixelated=1&darkmode=auto"
+  alt=":Profile Views"
+  title="Profile Views"/>
+</p>
+
 <br clear="right">
 Hi and welcome to my GitHub page. I'm a passionate full-stack developer in the making, based in Norway. I'm on a journey to master full-stack development, one project at a time. I have finished the Kodehode program and are now working as an intern at <a href="https://www.aplia.no">Aplia AS</a> Bergen.
 
